@@ -1,0 +1,7 @@
+{
+    "config":{
+        "threads":100,
+        "api_key":"",
+        "arkose_key":"A2A14B1D-1AF3-C791-9BBC-EE33CC7A0A6F"
+    }
+}
